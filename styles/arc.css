@@ -1,6 +1,12 @@
 *{
     font-family: "Work Sans",sans-serif;
 }
+.btn-primary{
+     border-radius: 8px;
+     color: aliceblue;
+     background: #FF900E;
+     padding: 20px 25px;
+}
 header{
     background: rgba(255, 144, 14, 0.10);
     padding: 50px 240px;
